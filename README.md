@@ -29,7 +29,9 @@ Output Format
 The program will output the total stock worth in the following format:
 
 ♦♦♦♦♦♦♦♦♦♦♦♦♦♦♦♦♦♦♦♦♦
+
 Café Paris Stock Inventory
+
 ♦♦♦♦♦♦♦♦♦♦♦♦♦♦♦♦♦♦♦♦♦
 
         TOTAL STOCK WORTH
